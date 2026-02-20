@@ -1,9 +1,0 @@
-Linear Regression model _ Liz Choi + Evaluation_Steven
-
-We first built a baseline Linear Regression model using only core numerical housing features:
-Features=[LivingArea, BedroomsTotal, BathroomsTotalInteger, LotSizeAcres, YearBuilt]
-These variables capture the fundamental structural characteristics of a property.
-
-To improve predictive performance, we extended the model by incorporating additional categorical property features, including:
-[ViewYN, PoolPrivateYN, NewConstructionYN, FireplaceYN]
-Since Linear Regression requires numerical inputs, these categorical variables were transformed using one-hot encoding:
