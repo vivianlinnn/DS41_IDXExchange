@@ -1,3 +1,1 @@
-● Methodology
-● Summaries
-● Written explanations
+
