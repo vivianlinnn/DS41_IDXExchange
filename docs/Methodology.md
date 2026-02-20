@@ -27,7 +27,9 @@ To improve predictive performance, we incorporated additional categorical featur
 Since Linear Regression requires numerical inputs, categorical variables were converted using one-hot encoding.
 
 ## 3. Evaluation
+
 We evalated the model using matrics R^2, MAPE and MdAPE:
+
 LOG SCALE PERFORMANCE
 -R² (Log): 0.4520
 -MAPE (Log): 2.58%
